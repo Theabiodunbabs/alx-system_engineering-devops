@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo=x file
+chmod u=rwx,go+x file
