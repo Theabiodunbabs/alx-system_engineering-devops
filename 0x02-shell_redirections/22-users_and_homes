@@ -1,2 +1,2 @@
 #!/bin/bash
-who -u /etc/passwd
+who -u /etc/passwd | users
